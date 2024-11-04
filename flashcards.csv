@@ -1,0 +1,51 @@
+Sigla,Sigla_espansa,Spiegazione,Pagina
+AEAD,Authenticated Encryption with Associated Data,Crittografia autenticata con dati associati. Un algoritmo che fornisce sia riservatezza che integrità/autenticazione dei dati.,88
+AES,Advanced Encryption Standard,Standard di crittografia avanzata. Un algoritmo di crittografia a blocchi simmetrico ampiamente utilizzato.,7
+AH,Authentication Header,Intestazione di autenticazione. Un protocollo di sicurezza IPsec che fornisce autenticazione e integrità dei dati.,184
+CA,Certification Authority,Autorità di certificazione. Un'entità attendibile che emette certificati digitali.,94
+CBC,Cipher Block Chaining,Cifratura a blocchi concatenati. Una modalità di funzionamento per algoritmi di crittografia a blocchi.,60
+C.I.A.,Confidentiality Integrity and Availability,Riservatezza Integrità e Disponibilità. I tre principi fondamentali della sicurezza delle informazioni.,36
+CRL,Certificate Revocation List,Lista di certificati revocati. Un elenco di certificati digitali che non sono più validi.,96
+CSP,Credential Service Provider,Fornitore di servizi di credenziali. Un componente che gestisce le credenziali degli utenti.,107
+CTS,CipherText Stealing,Furto di testo cifrato. Una tecnica di padding che evita l'aumento delle dimensioni del testo cifrato.,63
+CTR,Counter mode,Modalità contatore. Una modalità di funzionamento per algoritmi di crittografia a blocchi.,66
+DES,Data Encryption Standard,Standard di crittografia dei dati. Un algoritmo di crittografia a blocchi simmetrico ora considerato obsoleto.,7
+ECB,Electronic Code Book,Un metodo di crittografia a blocchi. Sconsigliato per messaggi lunghi a causa di vulnerabilità.,59
+ESP,Encapsulating Security Payload,Payload di sicurezza incapsulato. Un protocollo di sicurezza IPsec che fornisce riservatezza integrità e autenticazione dei dati.,189
+GCM,Galois/Counter Mode,Modalità Galois/Contatore. Una modalità di funzionamento per algoritmi di crittografia a blocchi.,90
+HMAC,Hash-based Message Authentication Code,Codice di autenticazione del messaggio basato su hash. Un algoritmo per fornire integrità e autenticazione dei dati.,85
+HPKP,HTTP Public Key Pinning,Fissaggio della chiave pubblica HTTP. Un meccanismo di sicurezza per impedire attacchi man-in-the-middle.,224
+HSTS,HTTP Strict Transport Security,Sicurezza del trasporto HTTP rigorosa. Un meccanismo di sicurezza per forzare l'utilizzo di HTTPS.,223
+IGE,Infinite Garble Extension,Estensione infinita di Garble. Un algoritmo di crittografia non raccomandato ma spiegato a scopo didattico.,88
+IV,Initialization Vector,Vettore di inizializzazione. Un valore casuale utilizzato in alcuni algoritmi di crittografia.,60
+Kc,Connection Key,Chiave di connessione. Una chiave utilizzata per crittografare le comunicazioni GSM.,116
+Ki,Subscriber authentication key,Chiave di autenticazione dell'abbonato. Una chiave utilizzata per autenticare gli utenti GSM.,116
+LWC,Lightweight Crypto,Crittografia leggera. Algoritmi di crittografia progettati per dispositivi con risorse limitate.,91
+MAC,Message Authentication Code,Codice di autenticazione del messaggio. Un valore utilizzato per verificare l'integrità e l'autenticità di un messaggio.,83
+MITM,Man-in-the-Middle,Uomo nel mezzo. Un attacco in cui un utente malintenzionato intercetta e altera le comunicazioni tra due parti.,48
+MNO,Mobile Network Operator,Operatore di rete mobile. Un fornitore di servizi di comunicazione mobile.,114
+NAS,Network Access Server,Server di accesso alla rete. Un dispositivo che fornisce accesso alla rete agli utenti.,147
+NIST,National Institute of Standards & Technology,Istituto nazionale di standard e tecnologia. Un'agenzia governativa degli Stati Uniti che sviluppa standard tecnici.,23
+NONCE,Number used ONCE,Numero utilizzato una sola volta. Un numero casuale o pseudo-casuale utilizzato in protocolli di sicurezza.,60
+OCSP,Online Certificate Status Protocol,Protocollo di stato del certificato online. Un protocollo per verificare la revoca del certificato.,288
+OTP,One-Time Password,Password monouso. Una password valida per un singolo accesso.,117
+OOB,Out-Of-Band,Fuori banda. La trasmissione di informazioni tramite un canale diverso dal canale principale.,69
+PCI DSS,Payment Card Industry Data Security Standard,Standard di sicurezza dei dati del settore delle carte di pagamento. Un insieme di requisiti di sicurezza per le organizzazioni che gestiscono i dati delle carte di pagamento.,111
+PF,Packet Filter,Filtro di pacchetti. Un tipo di firewall che filtra i pacchetti di rete in base a regole predefinite.,173
+PKI,Public-Key Infrastructure,Infrastruttura a chiave pubblica. Un sistema per la gestione delle chiavi pubbliche e dei certificati digitali.,96
+RADIUS,Remote Authentication Dial-In User Service,Servizio di autenticazione remota per utenti dial-in. Un protocollo di rete per l'autenticazione l'autorizzazione e la contabilità.,151
+RFC,Request for Comments,Richiesta di commenti. Una serie di documenti che descrivono standard Internet e protocolli correlati.,88
+RSA,Rivest-Shamir-Adleman,Un algoritmo di crittografia asimmetrica ampiamente utilizzato.,91
+S/KEY,Bellcore's S/Key One-Time Password System,Un sistema di password monouso basato su hash.,119
+SAD,Security Association Database,Database delle associazioni di sicurezza. Un database che contiene informazioni sulle associazioni di sicurezza IPsec.,181
+SHA,Secure Hash Algorithm,Algoritmo di hash sicuro. Una famiglia di funzioni di hash crittografiche.,88
+SIM,Subscriber Identity Module,Modulo di identità dell'abbonato. Una smart card utilizzata nei telefoni cellulari GSM.,114
+SRES,Signed Response,Risposta firmata. Un valore utilizzato nell'autenticazione GSM.,115
+SPI,Security Parameter Index,Indice dei parametri di sicurezza. Un valore utilizzato per identificare le associazioni di sicurezza IPsec.,184
+SSO,Single Sign-On,Accesso singolo. Un sistema di autenticazione che consente agli utenti di accedere a più sistemi con un solo insieme di credenziali.,131
+SSL,Secure Sockets Layer,Livello socket sicuro. Un protocollo di sicurezza per la comunicazione su Internet ora sostituito da TLS.,207
+TCP,Transmission Control Protocol,Protocollo di controllo della trasmissione. Un protocollo di trasporto affidabile utilizzato per la comunicazione su Internet.,101
+TLS,Transport Layer Security,Sicurezza del livello di trasporto. Un protocollo di sicurezza per la comunicazione su Internet.,207
+TOTP,Time-based One-Time Password,Password monouso basata sul tempo. Un tipo di OTP che utilizza l'ora corrente per generare la password.,120
+UDP,User Datagram Protocol,Protocollo datagramma utente. Un protocollo di trasporto non affidabile utilizzato per la comunicazione su Internet.,189
+VPN,Virtual Private Network,Rete privata virtuale. Una connessione di rete sicura che estende una rete privata su una rete pubblica.,183
